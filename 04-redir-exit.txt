@@ -1,0 +1,5 @@
+01-hello-world.sh
+02-array.sh
+03-loop.sh
+04-exit-redir.txt
+04-exit.sh
